@@ -18,7 +18,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](/assets/images/test_kitten.jpeg)
+![test_kitten](https://github.com/I-1060/paper-jekyll-theme/blob/master/assets/images/Cat_07464_kalamis_safinaz.jpg)
 
 This is how to upload from your assets
 
